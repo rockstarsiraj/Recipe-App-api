@@ -1,0 +1,515 @@
+{
+  "status": "success",
+  "total_recipes": 30,
+  "categories": [
+    "Indian",
+    "South Indian",
+    "Chinese",
+    "Italian",
+    "Arabic",
+    "Healthy",
+    "Dessert",
+    "Breakfast",
+    "Quick Snacks"
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+      "category": "Indian",
+      "time": "60 mins",
+      "difficulty": "Medium",
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "ingredients": [
+        "Basmati Rice - 2 cups",
+        "Chicken - 500g",
+        "Onions - 2",
+        "Tomatoes - 2",
+        "Biryani Masala",
+        "Mint Leaves"
+      ],
+      "instructions": [
+        "Soak basmati rice for 20 minutes.",
+        "Cook chicken with spices.",
+        "Prepare fried onions.",
+        "Layer chicken and rice, cook on low flame."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Butter Chicken",
+      "category": "Indian",
+      "time": "45 mins",
+      "difficulty": "Medium",
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?q=80&w=384&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.7,
+      "ingredients": [
+        "Chicken - 400g",
+        "Tomato puree",
+        "Butter",
+        "Cream",
+        "Spices"
+      ],
+      "instructions": [
+        "Cook chicken.",
+        "Make gravy with tomato puree and spices.",
+        "Add butter and cream.",
+        "Mix chicken in gravy."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paneer Butter Masala",
+      "category": "Indian",
+      "time": "30 mins",
+      "difficulty": "Easy",
+      "servings": 3,
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UGFuZWVyJTIwQnV0dGVyJTIwTWFzYWxhfGVufDB8fDB8fHww",
+      "rating": 4.9,
+      "ingredients": [
+        "Paneer - 200g",
+        "Tomatoes",
+        "Onions",
+        "Cream",
+        "Butter"
+      ],
+      "instructions": [
+        "Blend onions and tomatoes.",
+        "Cook with spices.",
+        "Add paneer and cream."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "time": "25 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1694849789325-914b71ab4075?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFzYWxhJTIwRG9zYXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.5,
+      "ingredients": [
+        "Dosa Batter",
+        "Potatoes - 2",
+        "Onions",
+        "Spices"
+      ],
+      "instructions": [
+        "Prepare potato filling.",
+        "Spread dosa on tawa.",
+        "Add masala and fold."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Idli Sambar",
+      "category": "South Indian",
+      "time": "35 mins",
+      "difficulty": "Easy",
+      "servings": 3,
+      "image": "https://images.unsplash.com/photo-1632104667384-06f58cb7ad44?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aWRsaSUyMHNhbWJhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.6,
+      "ingredients": [
+        "Idli batter",
+        "Dal",
+        "Tamarind",
+        "Vegetables"
+      ],
+      "instructions": [
+        "Steam idlis.",
+        "Cook dal and vegetables.",
+        "Add tamarind and spices."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Veg Fried Rice",
+      "category": "Chinese",
+      "time": "20 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1664717698774-84f62382613b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8VmVnJTIwRnJpZWQlMjBSaWNlfGVufDB8fDB8fHww",
+      "rating": 4.4,
+      "ingredients": [
+        "Cooked rice - 2 cups",
+        "Mixed Veggies",
+        "Soy sauce",
+        "Vinegar"
+      ],
+      "instructions": [
+        "Fry veggies.",
+        "Add rice and sauces.",
+        "Mix well."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chicken Manchurian",
+      "category": "Chinese",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "servings": 3,
+      "image": "https://images.unsplash.com/photo-1682622110433-65513a55d7da?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8JTIyQ2hpY2tlbiUyME1hbmNodXJpYW58ZW58MHx8MHx8fDA%3D",
+      "rating": 4.7,
+      "ingredients": [
+        "Chicken cubes",
+        "Cornflour",
+        "Soy sauce",
+        "Garlic"
+      ],
+      "instructions": [
+        "Fry chicken.",
+        "Make gravy with sauces.",
+        "Mix fried chicken."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Spring Rolls",
+      "category": "Chinese",
+      "time": "30 mins",
+      "difficulty": "Easy",
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1695712641569-05eee7b37b6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3ByaW5nJTIwcm9sbHN8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.3,
+      "ingredients": [
+        "Spring roll sheets",
+        "Vegetables",
+        "Soy sauce"
+      ],
+      "instructions": [
+        "Prepare stuffing.",
+        "Fill sheets.",
+        "Deep fry."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pasta Alfredo",
+      "category": "Italian",
+      "time": "25 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1673166513836-14f93e6f2c0b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFBhc3RhJTIwQWxmcmVkb3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.8,
+      "ingredients": [
+        "Pasta",
+        "Cream",
+        "Butter",
+        "Garlic",
+        "Cheese"
+      ],
+      "instructions": [
+        "Boil pasta.",
+        "Prepare Alfredo sauce.",
+        "Mix pasta with sauce."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Margherita Pizza",
+      "category": "Italian",
+      "time": "40 mins",
+      "difficulty": "Hard",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWFyZ2hlcml0YSUyMHBpenphfGVufDB8fDB8fHww",
+      "rating": 4.6,
+      "ingredients": [
+        "Pizza dough",
+        "Cheese",
+        "Tomato sauce",
+        "Basil"
+      ],
+      "instructions": [
+        "Prepare dough.",
+        "Add sauce and cheese.",
+        "Bake for 20 minutes."
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Garlic Bread",
+      "category": "Italian",
+      "time": "15 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1619535860434-ba1d8fa12536?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z2FybGljJTIwYnJlYWR8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.4,
+      "ingredients": [
+        "Bread",
+        "Butter",
+        "Garlic",
+        "Herbs"
+      ],
+      "instructions": [
+        "Spread garlic butter.",
+        "Toast in oven."
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Shawarma Roll",
+      "category": "Arabic",
+      "time": "35 mins",
+      "difficulty": "Medium",
+      "servings": 3,
+      "image": "https://plus.unsplash.com/premium_photo-1664478294917-c11274b9ce79?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U2hhd2FybWElMjBSb2xsfGVufDB8fDB8fHww",
+      "rating": 4.7,
+      "ingredients": [
+        "Chicken strips",
+        "Pita bread",
+        "Garlic sauce",
+        "Veggies"
+      ],
+      "instructions": [
+        "Marinate chicken.",
+        "Grill chicken.",
+        "Assemble roll."
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Falafel",
+      "category": "Arabic",
+      "time": "25 mins",
+      "difficulty": "Medium",
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1680405531955-8b4981bb1b0c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEZhbGFmZWx8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.3,
+      "ingredients": [
+        "Chickpeas",
+        "Garlic",
+        "Coriander",
+        "Spices"
+      ],
+      "instructions": [
+        "Grind chickpeas.",
+        "Make balls.",
+        "Deep fry."
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Fattoush Salad",
+      "category": "Healthy",
+      "time": "15 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1752028935881-0674807b046c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RmF0dG91c2glMjBTYWxhZHxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.2,
+      "ingredients": [
+        "Lettuce",
+        "Cucumber",
+        "Tomatoes",
+        "Olive oil"
+      ],
+      "instructions": [
+        "Chop vegetables.",
+        "Mix with dressing."
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Fruit Salad",
+      "category": "Healthy",
+      "time": "10 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1631718051263-c567dca19362?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZydWl0JTIwc2FsYWR8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.5,
+      "ingredients": [
+        "Fruits",
+        "Honey",
+        "Lemon"
+      ],
+      "instructions": [
+        "Chop fruits.",
+        "Add honey & lemon."
+      ]
+    },
+
+    {
+      "id": 16,
+      "name": "Green Smoothie",
+      "category": "Healthy",
+      "time": "5 mins",
+      "difficulty": "Easy",
+      "servings": 1,
+      "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R3JlZW4lMjBTbW9vdGhpZXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.1,
+      "ingredients": ["Spinach", "Banana", "Milk"],
+      "instructions": ["Blend everything."]
+    },
+    {
+      "id": 17,
+      "name": "Chocolate Cake",
+      "category": "Dessert",
+      "time": "45 mins",
+      "difficulty": "Medium",
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hvY29sYXRlJTIwY2FrZXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.9,
+      "ingredients": ["Flour", "Cocoa", "Sugar", "Butter"],
+      "instructions": ["Mix ingredients.", "Bake for 30 mins."]
+    },
+    {
+      "id": 18,
+      "name": "Gulab Jamun",
+      "category": "Dessert",
+      "time": "25 mins",
+      "difficulty": "Easy",
+      "servings": 4,
+      "image": "https://media.istockphoto.com/id/1358986564/photo/gulab-jamun.webp?a=1&b=1&s=612x612&w=0&k=20&c=KyviudDyEDY2u0LI4JdYfjWE4rnJhoa4RGyCnRcHV-M=",
+      "rating": 4.8,
+      "ingredients": ["Milk powder", "Sugar syrup"],
+      "instructions": ["Make balls.", "Fry & dip in syrup."]
+    },
+    {
+      "id": 19,
+      "name": "Vanilla Ice Cream",
+      "category": "Dessert",
+      "time": "10 mins",
+      "difficulty": "Easy",
+      "servings": 3,
+      "image": "https://i.imgur.com/sRh8E4F.jpg",
+      "rating": 4.3,
+      "ingredients": ["Milk", "Cream", "Vanilla"],
+      "instructions": ["Mix & freeze."]
+    },
+    {
+      "id": 20,
+      "name": "Pancakes",
+      "category": "Breakfast",
+      "time": "15 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGFuY2FrZXN8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.6,
+      "ingredients": ["Flour", "Milk", "Eggs", "Sugar"],
+      "instructions": ["Mix batter.", "Cook on pan."]
+    },
+    {
+      "id": 21,
+      "name": "Omelette",
+      "category": "Breakfast",
+      "time": "7 mins",
+      "difficulty": "Easy",
+      "servings": 1,
+      "image": "https://images.unsplash.com/photo-1494597706938-de2cd7341979?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8T21lbGV0dGV8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.2,
+      "ingredients": ["Eggs", "Onions", "Salt"],
+      "instructions": ["Beat eggs.", "Cook on pan."]
+    },
+    {
+      "id": 22,
+      "name": "French Toast",
+      "category": "Breakfast",
+      "time": "10 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1631707928780-153b053e09aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RnJlbmNoJTIwVG9hc3R8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.4,
+      "ingredients": ["Bread", "Eggs", "Milk"],
+      "instructions": ["Dip bread.", "Toast on pan."]
+    },
+    {
+      "id": 23,
+      "name": "Veg Sandwich",
+      "category": "Quick Snacks",
+      "time": "10 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://plus.unsplash.com/premium_photo-1664472757995-3260cd26e477?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VmVnJTIwU2FuZHdpY2h8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.1,
+      "ingredients": ["Bread", "Veggies", "Butter"],
+      "instructions": ["Assemble.", "Toast."]
+    },
+    {
+      "id": 24,
+      "name": "Samosa",
+      "category": "Quick Snacks",
+      "time": "20 mins",
+      "difficulty": "Medium",
+      "servings": 4,
+      "image": "https://images.unsplash.com/photo-1732519970445-8f2d6998961f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U2Ftb3NhfGVufDB8fDB8fHww",
+      "rating": 4.7,
+      "ingredients": ["Potatoes", "Flour", "Spices"],
+      "instructions": ["Prepare filling.", "Fold.", "Fry."]
+    },
+    {
+      "id": 25,
+      "name": "Pani Puri",
+      "category": "Quick Snacks",
+      "time": "15 mins",
+      "difficulty": "Easy",
+      "servings": 3,
+      "image": "https://media.istockphoto.com/id/1314329942/photo/goal-gappa-or-pani-puri.webp?a=1&b=1&s=612x612&w=0&k=20&c=gipl8gjcid4yNp9cIjVEvhyAFdlFyplwGXYgRv0jdoI=",
+      "rating": 4.5,
+      "ingredients": ["Puri", "Mint water", "Potatoes"],
+      "instructions": ["Fill puri.", "Add pani.", "Serve."]
+    },
+    {
+      "id": 26,
+      "name": "Maggie Masala",
+      "category": "Quick Snacks",
+      "time": "5 mins",
+      "difficulty": "Easy",
+      "servings": 1,
+      "image": "https://images.unsplash.com/photo-1602833280958-1657662ccc58?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TWFnZ2llfGVufDB8fDB8fHww",
+      "rating": 4.0,
+      "ingredients": ["Maggi", "Water"],
+      "instructions": ["Boil water.", "Cook noodles."]
+    },
+    {
+      "id": 27,
+      "name": "Fish Fry",
+      "category": "Indian",
+      "time": "20 mins",
+      "difficulty": "Easy",
+      "servings": 2,
+      "image": "https://images.unsplash.com/photo-1656389863341-1dfd38ee6edc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmlzaCUyMGZyeXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.6,
+      "ingredients": ["Fish", "Spices", "Oil"],
+      "instructions": ["Marinate fish.", "Fry until golden."]
+    },
+    {
+      "id": 28,
+      "name": "Chole Bhature",
+      "category": "Indian",
+      "time": "40 mins",
+      "difficulty": "Medium",
+      "servings": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSlJet2DcBzok4PUxK9P2yw9B3KiE-AK_KbA&s",
+      "rating": 4.8,
+      "ingredients": ["Chickpeas", "Flour", "Spices"],
+      "instructions": ["Cook chole.", "Fry bhature."]
+    },
+    {
+      "id": 29,
+      "name": "Rajma Chawal",
+      "category": "Indian",
+      "time": "35 mins",
+      "difficulty": "Easy",
+      "servings": 3,
+      "image": "https://images.unsplash.com/photo-1668236534990-73c4ed23043c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFqbWElMjBjaGF3YWx8ZW58MHx8MHx8fDA%3D",
+      "rating": 4.5,
+      "ingredients": ["Rajma", "Rice", "Onions", "Tomatoes"],
+      "instructions": ["Cook rajma.", "Boil rice."]
+    },
+    {
+      "id": 30,
+      "name": "Chicken 65",
+      "category": "South Indian",
+      "time": "25 mins",
+      "difficulty": "Medium",
+      "servings": 3,
+      "image": "https://images.unsplash.com/photo-1638439430466-b2bb7fdc1d67?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hpY2tlbiUyMGZyeXxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.7,
+      "ingredients": ["Chicken cubes", "Spices", "Curry leaves"],
+      "instructions": ["Marinate chicken.", "Deep fry.", "Tempering with curry leaves."]
+    }
+  ]
+}
